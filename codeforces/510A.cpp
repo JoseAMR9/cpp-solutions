@@ -28,7 +28,7 @@ int main() {
                     cout << ".";
                 }
             }
-            
+
         }
         if(i % 2 == 1){
             if(snake == true) snake = false;
